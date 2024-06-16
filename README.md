@@ -7,3 +7,16 @@ A Simple News App built with Flutter. In this app, there is a Home page, which w
 - Any Operating System (ie. MacOS X, Linux, Windows)
 - Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
 - A little knowledge of Dart and Flutter
+
+
+## Features
+
+- See all latest news.
+- Filter news according to news source (e.g., Google News, BBC, CNN, etc.).
+- Show top headlines according to user's location.
+- Search any keywords or news.
+- User-friendly UI.
+- Clean Architecture.
+
+
+## A quick look into app
